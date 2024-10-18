@@ -1,9 +1,5 @@
 package com.github.marcellopedrosa.domain.bacen.entities.pix;
 
-/**
- * Created by ChatGPT 3.5
- * @author marcello.pedrosa
- */
 public class CRC16Algorithm {
 
 	 // Polinômio padrão CRC-16-CCITT
