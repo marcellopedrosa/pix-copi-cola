@@ -27,13 +27,13 @@
     </developers>
 
     <scm>
-        <connection>scm:git:git@github.com:marcellopedrosa/pix-copi-cola-java.git</connection>
-        <developerConnection>scm:git:git@github.com:marcellopedrosa/pix-copi-cola-java.git</developerConnection>
-        <url>git@github.com:marcellopedrosa/pix-copi-cola-java.git</url>
+        <connection>scm:git:git@github.com:marcellopedrosa/pix-copi-cola.git</connection>
+        <developerConnection>scm:git:git@github.com:marcellopedrosa/pix-copi-cola.git</developerConnection>
+        <url>git@github.com:marcellopedrosa/pix-copi-cola.git</url>
     </scm>
 
     <issueManagement>
-        <url>https://github.com/marcellopedrosa/pix-copi-cola-java/issues</url>
+        <url>https://github.com/marcellopedrosa/pix-copi-cola/issues</url>
         <system>GitHub Issues</system>
     </issueManagement>
 
